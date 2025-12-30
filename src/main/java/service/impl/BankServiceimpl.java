@@ -1,7 +1,7 @@
 package service.impl;
 
 import domain.Account;
-import sevice.BankService;
+import service.BankService;
 
 import java.util.UUID;
 

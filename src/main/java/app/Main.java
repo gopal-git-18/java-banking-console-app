@@ -1,7 +1,7 @@
 package app;
 
 import service.impl.BankServiceimpl;
-import sevice.BankService;
+import service.BankService;
 
 import java.util.Scanner;
 
